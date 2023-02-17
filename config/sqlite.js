@@ -1,8 +1,8 @@
 module.exports = {
-	development: {
-		force: true,
-	},
-	production: {
-		force: false,
-	},
+  development: {
+    force: false,
+  },
+  production: {
+    force: true,
+  },
 };
